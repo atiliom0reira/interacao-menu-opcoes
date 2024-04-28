@@ -1,9 +1,3 @@
-//estudos de loop while
-//arrays
-//condicionais
-//template literals
-
-
 let option;
 let items = []
 
